@@ -1,0 +1,6 @@
+F:\project\tickets\tickets\tickets\bin\Release\tickets.exe.config
+F:\project\tickets\tickets\tickets\bin\Release\tickets.exe
+F:\project\tickets\tickets\tickets\bin\Release\DocumentFormat.OpenXml.dll
+F:\project\tickets\tickets\tickets\bin\Release\SpreadsheetLight.dll
+F:\project\tickets\tickets\tickets\obj\Release\tickets.exe
+F:\project\tickets\tickets\tickets\obj\Release\tickets.csprojResolveAssemblyReference.cache
